@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">proximityClapApp</string>
+    <string name="CloseApp">Close App</string>
+</resources>
